@@ -49,6 +49,7 @@ img {
   color: #fff;
   border-radius: 6px;
   font-weight: bold;
+  
 }
 
 .btn.small {
@@ -65,14 +66,14 @@ img {
   margin-top: 10px;
 }
 
-/* Section base */
+
 .section {
   padding: 60px 20px;
   max-width: 960px;
   margin: 0 auto;
 }
 
-/* Action section */
+
 .action {
   display: flex;
   flex-wrap: wrap;
@@ -86,10 +87,10 @@ img {
 
 .action-img {
   flex: 1 1 300px;
-  border: 20%;
+  border-radius: 8px;
 }
 
-/* Stats */
+
 .stats {
   background-color: #e6ecff;
   border-radius: 20px;
@@ -111,7 +112,7 @@ img {
   font-size: 24px;
 }
 
-/* Testimonials */
+
 .testimonials {
   text-align: center;
 }
@@ -138,7 +139,7 @@ img {
   font-size: 18px;
 }
 
-/* Focus section */
+
 .focus {
   text-align: center;
 }
@@ -148,7 +149,7 @@ img {
   border-radius: 16px;
 }
 
-/* Contact */
+
 .contact {
   display: flex;
   flex-wrap: wrap;
