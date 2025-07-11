@@ -20,7 +20,7 @@ img {
   display: block;
 }
 
-/* Header */
+
 .hero {
   background: url('images/Hero-bg.png') center top repeat;
   padding: 100px 20px 60px;
@@ -50,6 +50,11 @@ img {
   border-radius: 6px;
   font-weight: bold;
   
+}
+.btn:hover{
+    background-color: rgb(137, 134, 134);
+    color: white;
+
 }
 
 .btn.small {
@@ -159,6 +164,7 @@ img {
 
 .contact-text {
   flex: 1 1 300px;
+  
 }
 
 .contact-form {
@@ -176,7 +182,7 @@ img {
   border: 1px solid #ccc;
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   padding: 40px 20px;
